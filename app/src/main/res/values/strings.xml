@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Triangulo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_cateto_opuesto">Cateto opuesto</string>
+    <string name="hint_cateto_adyacente">Cateto adyacente</string>
+    <string name="boton_calcular">Calcular!</string>
+    <string name="action_settings">Settings</string>
+</resources>
